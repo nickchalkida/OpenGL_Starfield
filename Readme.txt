@@ -1,0 +1,1 @@
+gcc star.c -lglut -lGL -lGLU -lSDL -lSDL_image
